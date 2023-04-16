@@ -14,8 +14,8 @@
             <h1>Hello</h1>
         </div>
         <nav>
-            <a href="" class="navegar">Inicio</a>
-            <a href="" class="navegar">Productos</a>
+            <a href="" class="navegar">Home</a>
+            <a href="" class="navegar">Services</a>
             <a href="" class="navegar">Contacto</a>
             <a href="" class="navegar">Servicios</a>
             <a href="register.php" class="navegar inscrib">Inscribirse</a>
