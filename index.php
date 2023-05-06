@@ -12,20 +12,25 @@
 
 <body>
     <header class="header">
-        <a href="index.php"><h1 class="logo">LIVEFE</h1></a>
+        <a href="/">
+            <h1 class="logo">LIVEFE</h1>
+        </a>
         <nav>
             <a href="" class="navegar">Home</a>
             <a href="" class="navegar">Services</a>
             <a href="" class="navegar">Contact</a>
             <a href="" class="navegar">About</a>
-            <a href="auth/register.php" class="navegar inscrib">Inscribirse</a>
+            <a href="" class="contact">Contact</a>
         </nav>
     </header>
     <main>
-        <section>
-            <h2>ENCIENDE EL CARRO</h2>
+        <section class="section_content">
+            <h2 class="title"><strong>TURN ON THE CAR</strong></h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis quis eum blanditiis totam quos inventore cupiditate molestias magni itaque consectetur est asperiores ducimus velit accusamus quaerat, veniam dolorem, accusantium assumenda?</p>
-            <a>Get Started</a>
+            <a class="btn btn-primary" href="">Get Started</a>
+        </section>
+        <section class="section_page_1">
+
         </section>
     </main>
 </body>
